@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/splashFragment">
+
+    <fragment
+        android:id="@+id/splashFragment"
+        android:name="com.luanabarbosa.ui.splash.SplashFragment"
+        android:label="HomeTicketFragment"
+        tools:layout="@layout/cards_splash_fragment">
+        <deepLink app:uri="app://SPLASH_SCREEN" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/homeFragment"
+        android:name="com.luanabarbosa.home.ui.HomeCardFragment"
+        android:label="HomeCardFragment"
+        tools:layout="@layout/fragment_home_card_list">
+        <deepLink app:uri="app://HOME_SCREEN" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/detailsFragment"
+        android:name="com.luanabarbosa.details.ui.DetailsCardFragment"
+        android:label="DetailsCardFragment"
+        tools:layout="@layout/fragment_details_card">
+        <deepLink app:uri="app://DETAILS_SCREEN" />
+    </fragment>
+</navigation>

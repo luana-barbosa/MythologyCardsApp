@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cards.iml" filepath="$PROJECT_DIR$/.idea/modules/cards.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/cards.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/cards.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cards.buildSrc.iml" filepath="$PROJECT_DIR$/.idea/modules/cards.buildSrc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/details/cards.details.iml" filepath="$PROJECT_DIR$/.idea/modules/details/cards.details.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/home/cards.home.iml" filepath="$PROJECT_DIR$/.idea/modules/home/cards.home.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/network/cards.network.iml" filepath="$PROJECT_DIR$/.idea/modules/network/cards.network.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/toolkit/cards.toolkit.iml" filepath="$PROJECT_DIR$/.idea/modules/toolkit/cards.toolkit.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="text_button">Tente Novamente</string>
+    <string name="title_error">Ops, encontramos um problema, tente novamente mais tarde</string>
+    <string name="toolbar_home">Mythology</string>
+    <string name="description_search_bar">Barra de busca</string>
+    <string name="search_bar">Search</string>
+</resources>

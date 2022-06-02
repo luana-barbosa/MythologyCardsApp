@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="@color/black"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.luanabarbosa.ui.splash.SplashFragment">
+
+    <com.airbnb.lottie.LottieAnimationView
+        android:id="@+id/animation"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:lottie_autoPlay="true"
+        app:lottie_rawRes="@raw/iconsplash"
+        app:lottie_repeatCount="2"
+        app:lottie_speed="1" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fontFamily="@font/vast_shadow"
+        android:paddingStart="@dimen/ui_size_20dp"
+        android:paddingTop="@dimen/ui_size_80dp"
+        android:text="@string/text_splash"
+        android:textColor="@color/color_app"
+        android:textSize="@dimen/text_size_50sp" />
+</FrameLayout>

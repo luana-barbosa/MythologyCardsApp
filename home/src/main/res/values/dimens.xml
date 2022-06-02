@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="ui_size_3dp">3dp</dimen>
+    <dimen name="ui_size_8dp">8dp</dimen>
+    <dimen name="ui_size_10dp">10dp</dimen>
+    <dimen name="ui_size_12dp">12dp</dimen>
+    <dimen name="ui_size_36dp">36dp</dimen>
+    <dimen name="ui_size_40dp">40dp</dimen>
+    <dimen name="ui_size_120dp">120dp</dimen>
+    <dimen name="ui_size_180dp">180dp</dimen>
+    <dimen name="ui_size_200dp">200dp</dimen>
+    <dimen name="ui_size_220dp">220dp</dimen>
+    <dimen name="ui_size_260dp">260dp</dimen>
+    <dimen name="ui_size_270dp">270dp</dimen>
+    <dimen name="ui_size_300dp">300dp</dimen>
+    <dimen name="ui_size_390dp">390dp</dimen>
+
+    //Text
+    <dimen name="text_size_16sp">16sp</dimen>
+    <dimen name="text_size_18sp">18sp</dimen>
+    <dimen name="text_size_24sp">24sp</dimen>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="ui_size_6dp">6dp</dimen>
+    <dimen name="ui_size_8dp">8dp</dimen>
+    <dimen name="ui_size_16dp">16dp</dimen>
+    <dimen name="ui_size_60dp">60dp</dimen>
+    <dimen name="ui_size_210dp">210dp</dimen>
+    <dimen name="ui_size_220dp">220dp</dimen>
+    <dimen name="ui_size_270dp">270dp</dimen>
+    <dimen name="ui_size_390dp">390dp</dimen>
+
+    //Text
+
+    <dimen name="text_size_18sp">18sp</dimen>
+    <dimen name="text_size_24sp">24sp</dimen>
+</resources>
